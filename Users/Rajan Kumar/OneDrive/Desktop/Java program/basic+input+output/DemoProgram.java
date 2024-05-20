@@ -7,3 +7,4 @@ class DemoProgram
                            System.out.println("This is java program");
         }
 }
+
