@@ -1,0 +1,158 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"boAt Wave Lite Smart Watch",
+            "category":"men",
+            "brand":"boAt",
+            "price":3999,
+            "description":"boAt Wave Lite Smart Watch w/ 1.69 (4.2 cm) HD Display, Sleek Metal Body, HR & SpO2 Level Monitor, 140+ Watch Faces, Activity Tracker,",
+            "image":"https://m.media-amazon.com/images/I/51rAZQpFcIL._SX300_SY300_QL70_FMwebp_.jpg",
+            "offer":"yes",
+            "discount":20
+        },
+        {
+            "id":2,
+            "name":"Fire-Boltt Snapp Smart Watch",
+            "category":"men",
+            "brand":"Fire-Boltt",
+            "price":6499,
+            "description":"Selfie Camera, 4G Nano-SIM Slot, 54.1mm AMOLED Display, Play Store- Unlimited apps, 1000mAh Battery, 2GB/4GB RAM + 16GB/64GB ROM (Cherry Blush)",
+            "image":"https://m.media-amazon.com/images/I/61YyAeQt+3L._SX679_.jpg",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":3,
+            "name":"Noise Diva Smartwatch ",
+            "category":"women",
+            "brand":"Noise",
+            "price":3499,
+            "description":"Noise Diva Smartwatch with Diamond Cut dial, Glossy Metallic Finish, AMOLED Display, Mesh Metal and Leather Strap Options, 100+ Watch Faces, Female Cycle Tracker Smart Watch for Women",
+            "image":"https://m.media-amazon.com/images/I/61DZclqQ4RL._SL1500_.jpg",
+             "offer":"yes",
+            "discount":50
+        },
+        {
+            "id":4,
+            "name":"NoiseFit Halo 1.43 AMOLED Display",
+            "category":"men",
+            "brand":"NoiseFit",
+            "price":3400,
+            "description":"this is very smart watch !!!",
+            "image":"https://m.media-amazon.com/images/I/81nj6IlZpVL._SY879_.jpg",
+             "offer":"no",
+            "discount":0
+        },
+        {
+            "id":5,
+            "name":"Emporio Armani Stainless Steel",
+            "category":"women",
+            "brand":"Emporio Armani",
+            "price":31995,
+            "description":"Emporio Armani Stainless Steel Analog White Dial Women Watch-Ar11244, Gold Band",
+            "image":"https://m.media-amazon.com/images/I/715yGYIvSBL._SL1500_.jpg",
+             "offer":"no",
+            "discount":0
+        },
+        {
+            "id":6,
+            "name":"STYLEDOSE Women Analogue Wrist Watche",
+            "category":"women",
+            "brand":"STYLEDOSE Women Analogue Wrist Watches",
+            "price":399,
+            "description":"STYLEDOSE Women Analogue Wrist Watches for Women's & Girls&Miss&Ladies Diamond Studded Dial RoseGold Colored Stylish Bracelet Strap",
+            "image":"https://m.media-amazon.com/images/I/711J1gA9deL._SX679_.jpg",
+             "offer":"yes",
+            "discount":15
+        },
+        {
+            "id":7,
+            "name":"ORSGA Fleur Bracelet Watch",
+            "category":"women",
+            "brand":"ORSGA Fleur Bracelet Watch",
+            "price":1803,
+            "description":"ORSGA Fleur Bracelet Watch for Women Dial Flower Chain Watches Analog Ladies Latest Stylish Diamond Wrist Gift Anniversary Birthday Free Size",
+            "image":"https://m.media-amazon.com/images/I/71bm7W4ezQL._SX679_.jpg",
+             "offer":"no",
+            "discount":0
+        },
+        {
+            "id":8,
+            "name":"SPIKY 3D Cartoon Kids Analog Watch",
+            "category":"kids",
+            "brand":"SPIKY 3D Cartoon Kids Analog Watch",
+            "price":3400,
+            "description":"SPIKY 3D Cartoon Kids Analog Watch with LED Luminous 7 Multicolour Glowing Disco Light | 3D Unique Cute Cartoon on Belt | Unbreakable Silicone Strap | Childrens Best Unisex Birthday Return Gift | Suitable for boys and girls of Age 3-13 Years",
+            "image":"https://m.media-amazon.com/images/I/511ydnoWudL._SX679_.jpg",
+             "offer":"no",
+            "discount":0
+        },
+        {
+            "id":9,
+            "name":"Kids Edition Spiderman/Frozen/Ben 10 /",
+            "category":"kids",
+            "brand":"Kids Edition Spiderman/Frozen/Ben 10 /",
+            "price":380,
+            "description":"Kids Edition Spiderman/Frozen/Ben 10 / Hello Kitty Digital Watch for Kids with Disco LED Lights (Boys & Girls)- Kids Watch Boys and Girls",
+            "image":"https://m.media-amazon.com/images/I/51rAZQpFcIL._SX300_SY300_QL70_FMwebp_.jpg",
+             "offer":"no",
+            "discount":0
+        },
+        {
+            "id":10,
+            "name":"Noise Newly Launched Quad Call 1.81 Display",
+            "category":"men",
+            "brand":"Noise Newly Launched Quad Call 1.81",
+            "price":1399,
+            "description":"Noise Newly Launched Quad Call 1.81 Display, Bluetooth Calling Smart Watch, AI Voice Assistance, 160+Hrs Battery Life, Metallic Build, in-Built Games, 100 Sports Modes, 100+ Watch Faces (Rose Pink)",
+            "image":"https://m.media-amazon.com/images/I/61khLNWFnHL._SL1500_.jpg",
+             "offer":"yes",
+            "discount":75
+        },
+        {
+            "id":11,
+            "name":"Michael Kors Resin Analog Rose",
+            "category":"women",
+            "brand":"Michael Kors",
+            "price":23995,
+            "description":"Michael Kors Resin Analog Rose Dial Women Watch-Mk5896, Gold Band",
+            "image":"https://m.media-amazon.com/images/I/71IHBLXE4xL._SL1500_.jpg",
+             "offer":"yes",
+            "discount":25
+        },
+        {
+            "id":12,
+            "name":"OLEVS Mens Watches ",
+            "category":"men",
+            "brand":"OLEVS",
+            "price":3060,
+            "description":"OLEVS Mens Watches Chronograph Diamond Quartz Date Calendar Moon Phase Luxury Two Tone Stainless Steel Waterproof Luminous Business Wrist Watch",
+            "image":"https://m.media-amazon.com/images/I/61JItBgSibL._SX679_.jpg",
+             "offer":"yes",
+            "discount":10
+        },
+        {
+            "id":13,
+            "name":"Seiko Premier Mens Watches ",
+            "category":"men",
+            "brand":"Seiko",
+            "price":64500,
+            "description":"Seiko Premier Stainless Steel Chronograph Brown dial Men's Watch-",
+            "image":"https://m.media-amazon.com/images/I/61-EEXc5lcL._SX679_.jpg",
+             "offer":"no",
+            "discount":0
+        },
+        {
+            "id":14,
+            "name":"Victorinox Analogue Mens Watches ",
+            "category":"men",
+            "brand":"Victorinox",
+            "price":60000,
+            "description":"Victorinox Analogue Men's Watch (Black Dial)",
+            "image":"https://m.media-amazon.com/images/I/61EFRlRfkSL._SX679_.jpg",
+             "offer":"yes",
+            "discount":10
+        }
+    ]
+}
