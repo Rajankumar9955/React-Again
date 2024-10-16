@@ -1,0 +1,32 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "Rajan kumar",
+      "email": "krajan92946@gmail.com",
+      "city": "Bhopal",
+      "fees": 15465
+    },
+    {
+      "id": "b15f",
+      "name": "Suraj Kumar",
+      "email": "sk@gmail.com",
+      "city": "sitamarhi",
+      "fees": "4654657"
+    },
+    {
+      "id": "61ad",
+      "name": "Aman Kumar",
+      "email": "ak@gmail.com",
+      "city": "indore",
+      "fees": "34895"
+    },
+    {
+      "id": "8857",
+      "name": "vikash Kumar",
+      "email": "vk@gmail.com",
+      "city": "bhopal",
+      "fees": "34895"
+    }
+  ]
+}
